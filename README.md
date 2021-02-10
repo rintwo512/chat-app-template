@@ -6,3 +6,5 @@ Dark and light mode responsive chat application template using bootstrap5
 ![3](https://user-images.githubusercontent.com/59271775/107472146-626eb680-6ba9-11eb-981f-d676e928f0db.png)
 
 ![5](https://user-images.githubusercontent.com/59271775/107472216-829e7580-6ba9-11eb-8b85-3cebd12eb216.png)
+
+![6](https://user-images.githubusercontent.com/59271775/107472302-abbf0600-6ba9-11eb-8f4f-13b88aeb652d.png)
